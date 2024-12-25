@@ -49,5 +49,3 @@ if __name__ == "__main__":
         ticketing_macro(target_time_input, target_url_input)
     except KeyboardInterrupt:
         print("프로그램이 종료되었습니다.")
-
-
